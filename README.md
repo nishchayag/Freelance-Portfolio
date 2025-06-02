@@ -1,12 +1,3 @@
-# React + Vite
+As my first real-world, production-grade application developed as a freelancer, this ReactJS portfolio website showcases not only my work but also my ability to integrate modern development tools effectively. Built on "ReactJs", the site uses "Tailwind CSS" for a highly responsive, streamlined and utility-first design approach. For UI components, I incorporated "Material UI" (@mui/material) along with @emotion/styled for elegant and flexible styling. Animations are powered by "react-spring/web" and "react-spring", providing smooth transitions and engaging motion effects, while "framer-motion" enhances interactivity throughout the interface. I also integrated "react-slick" and "slick-carousel" to create a sleek, interactive carousel in the project to showcase the customer reviews given to the client and their services. To add visual flair, I used "lucide-react", which brings in beautifully minimal icons. Altogether, this portfolio reflects my ability to craft visually appealing, performant, and modern web applications using a comprehensive set of front-end technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Official link to the deployed website : https://kaizenn.in/
